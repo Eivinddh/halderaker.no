@@ -6,7 +6,7 @@ import HelloWorld from './components/HelloWorld.vue'
   <header>
 
     <div class="wrapper">
-      <HelloWorld msg="Velkommen! 👋" />
+      <HelloWorld msg="Velkommen Pappa! 👋" />
     </div>
   </header>
 
