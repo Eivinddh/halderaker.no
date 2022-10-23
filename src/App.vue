@@ -7,7 +7,6 @@ import HelloWorld from './components/HelloWorld.vue'
 
     <div class="wrapper">
       <HelloWorld msg="Velkommen! 👋" />
-      <p>lett å gjøre endringer her.</p> 
     </div>
   </header>
 
