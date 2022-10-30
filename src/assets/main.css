@@ -8,11 +8,6 @@
   font-weight: normal;
 }
 
-a,
-.green {
-  color: #070600;
-}
-
 @media (min-width: 1024px) {
   body {
     display: flex;
